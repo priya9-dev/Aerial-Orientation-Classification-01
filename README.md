@@ -1,2 +1,12 @@
-# Aerial-Orientation-Classification-01
-A deep-learning project that classifies aerial images into Bird or Drone using Custom CNN and Transfer Learning. It includes preprocessing, augmentation, model evaluation, optional YOLOv8 object detection, and a Streamlit app for real-time predictions
+# Aerial Object Classification & Detection
+
+This project includes:
+- Bird vs Drone Classification (CNN / Transfer Learning)
+- YOLOv8 Object Detection
+- Streamlit Web App
+
+Project Structure:
+- data/ : datasets
+- notebooks/ : exploratory Jupyter notebooks
+- src/ : preprocessing, model building, training, evaluation scripts
+- app.py : Streamlit application
